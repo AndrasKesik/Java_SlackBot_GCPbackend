@@ -8,6 +8,11 @@
           <element id="directory" name="classes">
             <element id="module-output" name="codecool_slacker" />
           </element>
+          <element id="directory" name="lib">
+            <element id="file-copy" path="C:/httpcomponents-client-4.5.2/lib/httpclient-4.5.2.jar" />
+            <element id="library" level="project" name="AppEngine ORM" />
+            <element id="library" level="project" name="AppEngine API" />
+          </element>
         </element>
         <element id="directory" name="META-INF">
           <element id="file-copy" path="$PROJECT_DIR$/target/codecool_slacker-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
