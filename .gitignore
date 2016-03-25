@@ -1,8 +1,6 @@
 /target
 /src/test
-/codecool_slacker.ipr
-/codecool_slacker.iws
-/codecool_slacker.iml
+
 # Created by .ignore support plugin (hsz.mobi)
 ### Java template
 *.class
